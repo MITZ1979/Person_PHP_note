@@ -1,0 +1,3 @@
+<?php
+
+header("conten-type");
